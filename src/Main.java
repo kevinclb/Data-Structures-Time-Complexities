@@ -101,7 +101,6 @@ public class Main {
         System.out.println("\n\nPart 2:");
         HashSet<String> aliceHashSet = new HashSet<>();
         TreeSet<String> aliceTreeSet = new TreeSet<>();
-
         File aliceInWonderland = new File("src/Alice.txt");
         Scanner scan = new Scanner(aliceInWonderland);
         Scanner scan2 = new Scanner(aliceInWonderland);
